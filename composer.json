@@ -1,0 +1,12 @@
+{
+    "config": {
+        "vendor-dir": "dependencies",
+        "preferred-install": "dist",
+        "minimum-stability": "dev"
+    },
+    "require": {
+        "pablo-sg-pacheco/wp-namespace-autoloader": "dev-master",
+        "illuminate/database": "^8.83",
+        "woocommerce/action-scheduler": "^3.5"
+    }
+}
